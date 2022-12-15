@@ -1,0 +1,4 @@
+/venv
+.idea
+__pycache__/
+source/floripa_chess_hustlers/secrets.py
